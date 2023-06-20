@@ -10,16 +10,16 @@ MAX_SLOTS = 10
 
 ssh_servers = [
     {
-        'hostname': '1.1.1.1',
-        'port': 22,
+        'hostname': '8.tcp.ngrok.io',
+        'port': 17114,
         'username': 'root',
-        'password': 'root'
+        'password': '1'
     },
     {
-        'hostname': '0.0.0.0',
-        'port': 22,
+        'hostname': '8.tcp.ngrok.io',
+        'port': 17114,
         'username': 'root',
-        'password': 'root'
+        'password': '1'
     }
 ]
 
